@@ -7,4 +7,4 @@ def four2sixTimeDigit(item):
     t = datetime.time(hour, min, int(t[1]))
     return t
 
-print(four2sixTimeDigit("61:50"))
+print(four2sixTimeDigit("91:50"))
